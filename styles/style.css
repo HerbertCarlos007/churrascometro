@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right,black,rgb(103, 130, 204));
+    background-position: center;
+  
+  
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(130, 130, 130);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 32px 0 rgba(8, 0, 0, 0.37);
+    backdrop-filter: blur(13.5px);
+    -webkit-backdrop-filter: blur(13.5px);
+    position: relative;
+    left: 35px;
+    top: 100px;
+}
+
+input {
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
